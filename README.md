@@ -175,12 +175,14 @@ A iniciativa também integra meu processo de aperfeiçoamento profissional em de
   />
 </a>
 
-<a href="mailto:mrjohnpaul89@outlook.com">
+
+<a href="mailto:kyravexisbr@proton.me">
   <img
-    src="https://img.shields.io/badge/Email-Contato-111111?style=for-the-badge&amp;logo=gmail&amp;logoColor=E10600"
-    alt="Email profissional"
+    src="https://img.shields.io/badge/Email-KYRAVEXIS-111111?style=for-the-badge&amp;logo=protonmail&amp;logoColor=E10600"
+    alt="Email profissional KYRAVEXIS"
   />
 </a>
+
 
 </div>
 
